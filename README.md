@@ -6,6 +6,14 @@ During my work hours, I focus on making decisions that won’t cause trouble in 
 
 With a long background in .NET development, I still spend plenty of time programming. I strongly believe in the principle of “you build it, you run it”, which for me includes taking responsibility for the entire process—from design and development to deployment and operations.
 
+🏡 I’m a father and husband
+---
+I’m happily married, and together with my wife we’re raising a wonderful kid who brightens my days.
+
+👾 I´m a gamer
+---
+I truly enjoy a good game—whether it’s diving into a great story, sharing laughs with friends, or feeling the thrill of competition.
+
 🔭 I’m currently working on howlite-resources
 ---
 For a long time, I’ve had a dream of being able to quickly prototype APIs and applications without first having to define strongly typed API endpoints with a predefined data structure. With howlite-resources, I can spin up a container and use simple, common HTTP methods to create, read, update, and delete resources—without going through the whole "data-type ceremony" first. This lets me prototype quickly, fail fast, and iterate faster.
