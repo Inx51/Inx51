@@ -23,4 +23,4 @@ That’s my turf!
 
 📫 How to reach me:
 ---
-Create an issue in this repository.
+Create an issue in [this](https://github.com/Inx51/Inx51) repository.
