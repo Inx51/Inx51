@@ -1,5 +1,10 @@
 # Hello 👋!
 
+👷 I’m a software engineer by profession
+---
+During my work hours, I focus on making decisions that won’t cause trouble in the long run—avoiding technical debt and poor early choices. I like tinkering with different ideas and exploring solutions that balance the best outcome with the money and time available.
+
+With a long background in .NET development, I still spend plenty of time programming. I strongly believe in the principle of “you build it, you run it”, which for me includes taking responsibility for the entire process—from design and development to deployment and operations.
 
 🔭 I’m currently working on howlite-resources
 ---
