@@ -21,6 +21,6 @@ I’d love to hear feedback on howlite-resources from more experienced Golang de
 ---
 That’s my turf!
 
-📫 How to reach me:
+📫 How to reach me
 ---
 Create an issue in [this](https://github.com/Inx51/Inx51) repository.
