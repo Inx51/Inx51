@@ -6,19 +6,19 @@ During my work hours, I focus on making decisions that won’t cause trouble in 
 
 With a long background in .NET development, I still spend plenty of time programming. I strongly believe in the principle of “you build it, you run it”, which for me includes taking responsibility for the entire process—from design and development to deployment and operations.
 
-🏡 I’m a father and husband
+🏡 Father and husband
 ---
 I’m happily married, and together with my wife we’re raising a wonderful kid who brightens my days.
 
-👾 I´m a gamer
+👾 Gamer
 ---
 I truly enjoy a good game—whether it’s diving into a great story, sharing laughs with friends, or feeling the thrill of competition.
 
-🔭 I’m currently working on howlite-resources
+🔭 Working on howlite-resources
 ---
 For a long time, I’ve had a dream of being able to quickly prototype APIs and applications without first having to define strongly typed API endpoints with a predefined data structure. With howlite-resources, I can spin up a container and use simple, common HTTP methods to create, read, update, and delete resources—without going through the whole "data-type ceremony" first. This lets me prototype quickly, fail fast, and iterate faster.
 
-🌱 I’m currently learning Golang
+🌱 Currently learning Golang
 ---
 The howlite-resources project has gone through multiple iterations over the years, most of them built with C# and .NET, since that’s my "native tongue" in programming. However, after a short proof of concept, I noticed that Golang handles this kind of application much better in terms of performance, so I decided to take that path.
 
@@ -26,7 +26,7 @@ The howlite-resources project has gone through multiple iterations over the year
 ---
 Right now, I’d especially love to work with others on building an open-source framework for .NET with a focus on messaging.
 
-🤔 I’m looking for help with feedback
+🤔 Help with feedback
 ---
 I’d love to hear feedback on howlite-resources from more experienced Golang developers.
 
