@@ -18,9 +18,15 @@ I truly enjoy a good game—whether it’s diving into a great story, sharing la
 ---
 For a long time, I’ve had a dream of being able to quickly prototype APIs and applications without first having to define strongly typed API endpoints with a predefined data structure. With howlite-resources, I can spin up a container and use simple, common HTTP methods to create, read, update, and delete resources—without going through the whole "data-type ceremony" first. This lets me prototype quickly, fail fast, and iterate faster.
 
-🌱 Currently learning Golang
+🌱 Currently learning
 ---
+## Golang
 The howlite-resources project has gone through multiple iterations over the years, most of them built with C# and .NET, since that’s my "native tongue" in programming. However, after a short proof of concept, I noticed that Golang handles this kind of application much better in terms of performance, so I decided to take that path.
+
+## React
+Currently learning React, mainly to bring myself up to speed with the current state of frontend development. I will continuously push changes to the Stocklify repository as progress is being made.
+
+I also plan to recreate the same applications using Angular, Blazor, and SvelteKit to see how they compare to each other.
 
 👯 I’m looking to collaborate on whatever might be interesting
 ---
