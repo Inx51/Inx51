@@ -28,7 +28,7 @@ Currently learning React, mainly to bring myself up to speed with the current st
 
 I also plan to recreate the same applications using Angular, Blazor, and SvelteKit to see how they compare to each other.
 
-👯 I’m looking to collaborate on whatever might be interesting
+🤜 I’m looking to collaborate on whatever might be interesting
 ---
 Right now, I’d especially love to work with others on building an open-source framework for .NET with a focus on messaging.
 
